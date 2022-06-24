@@ -29,7 +29,7 @@
             android:layout_height="100dp"
             android:layout_marginTop="30dp"
             android:contentDescription="@string/app_name"
-            android:src="@drawable/shopping" />
+            android:src="@drawable/iyaa" />
 
         <TextView
             android:id="@+id/tvSignIn"
@@ -142,46 +142,46 @@
         android:id="@+id/llMedSos"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
+        android:layout_alignParentBottom="true"
         android:background="@color/purple_200"
-        android:layout_alignParentBottom="true">
+        android:orientation="vertical">
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/atau_login"
-            android:textSize="15sp"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="10dp"
-            android:textColor="@android:color/white"/>
+            android:text="@string/atau_login"
+            android:textColor="@android:color/white"
+            android:textSize="15sp" />
 
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:layout_marginTop="10dp"
             android:layout_gravity="center_horizontal"
-            android:layout_marginBottom="10dp">
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:orientation="horizontal">
 
             <ImageView
                 android:layout_width="32dp"
                 android:layout_height="32dp"
                 android:layout_marginEnd="10dp"
-                android:src="@drawable/ic_icons8_linkedin"
-                android:contentDescription="@string/app_name" />
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/ic_icons8_linkedin" />
 
             <ImageView
                 android:layout_width="32dp"
                 android:layout_height="32dp"
                 android:layout_marginEnd="10dp"
-                android:src="@drawable/ic_icons8_facebook"
-                android:contentDescription="@string/app_name" />
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/ic_icons8_facebook" />
 
             <ImageView
                 android:layout_width="32dp"
                 android:layout_height="32dp"
-                android:src="@drawable/ic_icons8_twitter"
-                android:contentDescription="@string/app_name" />
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/ic_icons8_twitter" />
         </LinearLayout>
     </LinearLayout>
 

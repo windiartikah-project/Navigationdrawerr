@@ -13,7 +13,7 @@
         android:id="@+id/imageView"
         android:layout_width="75dp"
         android:layout_height="75dp"
-        app:srcCompat="@drawable/shopping"
+        app:srcCompat="@drawable/iyaa"
         android:layout_marginBottom="10dp"
         android:contentDescription="@string/image_header" />
 
@@ -21,7 +21,7 @@
         android:id="@+id/tvNamaHeader"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/nama_header"
+        android:text="windi artikah"
         android:textColor="@android:color/white"
         android:textStyle="bold"
         android:textSize="18sp"/>
@@ -30,7 +30,7 @@
         android:id="@+id/tvEmailHeader"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/email_header"
+        android:text="windiartikah25@gmail.com"
         android:textColor="@android:color/white"
         android:textSize="16sp"/>
 

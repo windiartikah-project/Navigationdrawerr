@@ -14,7 +14,7 @@
     android:id="@+id/imgLogo"
     android:layout_width="150dp"
     android:layout_height="150dp"
-    android:src="@drawable/shopping"
+    android:src="@drawable/iyaa"
     android:contentDescription="@string/icon_url"/>
 
     <TextView

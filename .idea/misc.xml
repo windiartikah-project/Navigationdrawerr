@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/data/Navigation-Drawerr/app/src/main/res/drawable-v24/button_style1.xml" value="0.15" />
+        <entry key="..\:/data/Navigation-Drawerr/app/src/main/res/drawable-v24/button_style2.xml" value="0.15" />
+        <entry key="..\:/data/Navigation-Drawerr/app/src/main/res/drawable-v24/button_style3.xml" value="0.15" />
+        <entry key="..\:/data/Navigation-Drawerr/app/src/main/res/drawable-v24/button_style4.xml" value="0.15" />
+        <entry key="..\:/data/Navigation-Drawerr/app/src/main/res/drawable-v24/edittextstyle1.xml" value="0.15" />
+        <entry key="..\:/data/Navigation-Drawerr/app/src/main/res/drawable-v24/edittextstyle2.xml" value="0.15" />
+        <entry key="..\:/data/Navigation-Drawerr/app/src/main/res/drawable-v24/linestyle.xml" value="0.15" />
+        <entry key="..\:/data/Navigation-Drawerr/app/src/main/res/drawable/ic_phone_white_24dp.xml" value="0.15" />
+        <entry key="..\:/data/Navigation-Drawerr/app/src/main/res/drawable/repeat_background.xml" value="0.136" />
+        <entry key="..\:/data/Navigation-Drawerr/app/src/main/res/layout/activity_edit_profile.xml" value="0.27291666666666664" />
+        <entry key="..\:/data/Navigation-Drawerr/app/src/main/res/layout/activity_login.xml" value="0.27291666666666664" />
+        <entry key="..\:/data/Navigation-Drawerr/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/data/Navigation-Drawerr/app/src/main/res/layout/activity_register.xml" value="0.27291666666666664" />
+        <entry key="..\:/data/Navigation-Drawerr/app/src/main/res/layout/activity_splash_screen.xml" value="0.27291666666666664" />
+        <entry key="..\:/data/Navigation-Drawerr/app/src/main/res/layout/content_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/data/Navigation-Drawerr/app/src/main/res/layout/fragment_beranda.xml" value="0.27291666666666664" />
+        <entry key="..\:/data/Navigation-Drawerr/app/src/main/res/layout/fragment_jasa.xml" value="0.12552083333333333" />
+        <entry key="..\:/data/Navigation-Drawerr/app/src/main/res/layout/fragment_profile.xml" value="0.27291666666666664" />
+        <entry key="..\:/data/Navigation-Drawerr/app/src/main/res/layout/nav_header.xml" value="0.27291666666666664" />
+        <entry key="..\:/data/Navigation-Drawerr/app/src/main/res/menu/nav_menu.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

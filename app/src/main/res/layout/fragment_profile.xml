@@ -59,7 +59,7 @@
                             android:id="@+id/tvNama"
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
-                            android:text="@string/myname"
+                            android:text="windi artikah"
                             android:textSize="15sp"
                             android:layout_weight=".65"/>
                     </TableRow>
@@ -112,7 +112,7 @@
                             android:id="@+id/tvNomorHP"
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
-                            android:text="@string/myphone"
+                            android:text="0822-6852-9814"
                             android:textSize="15sp"
                             android:layout_weight=".65"/>
                     </TableRow>
@@ -132,7 +132,7 @@
                             android:id="@+id/tvAlamat"
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
-                            android:text="@string/myaddres"
+                            android:text="Gg samping lam - air putih-bengkalis"
                             android:textSize="15sp"
                             android:maxLines="3"
                             android:scrollHorizontally="false"
@@ -155,7 +155,7 @@
                             android:id="@+id/tvEmail"
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
-                            android:text="@string/myemail"
+                            android:text="windiartikah25@gmail.com"
                             android:textSize="15sp"
                             android:layout_weight=".65"/>
                     </TableRow>
@@ -198,7 +198,7 @@
             android:layout_weight="1"
             android:paddingStart="10dp"
             android:paddingEnd="20dp"
-            android:background="@drawable/button_style2"
+            android:background="@drawable/button_style4"
             android:drawableEnd="@drawable/ic_edit_white_24dp"
             android:text="@string/edit_profil"
             android:textColor="@android:color/white"
